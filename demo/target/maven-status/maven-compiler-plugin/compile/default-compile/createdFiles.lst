@@ -1,0 +1,4 @@
+com\Consultant\demo\Controller\UserController.class
+com\Consultant\demo\Service\ConsultantService.class
+com\Consultant\demo\Repository\Repository.class
+com\Consultant\demo\Model\Consultant.class
